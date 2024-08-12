@@ -12,6 +12,14 @@ target/
 *.iws
 *.iml
 *.ipr
+.gitignore
+compiler.xml
+encodings.xml
+jarRepositories.xml
+misc.xml
+uiDesigner.xml
+vcs.xml
+workspace.xml
 
 ### Eclipse ###
 .apt_generated
